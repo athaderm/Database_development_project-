@@ -48,5 +48,5 @@ Display the details of the members who have borrowed a book on "11/2/2022".
 
 <p align="center">
  ![Query_2nd](/images/Query_2nd.png?raw=true)
-  <img width="460" height="300" src="/images/Query_2nd.png?raw=true">
+  <img src="/images/Query_2nd.png?raw=true">
 </p>
