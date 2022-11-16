@@ -1,3 +1,4 @@
+<div align="center">
 # Database development project (Microsoft Access)
 ### Project overview
 
@@ -46,8 +47,5 @@ Display the details of the members who have borrowed a book on "11/2/2022".
 
 -2nd solution
 
-<div>
-<p align="center">
-  <img src="/images/Query_2nd.png?raw=true">
-</p>
+  ![Query_2nd](/images/Query_2nd.png?raw=true)
 </div>
