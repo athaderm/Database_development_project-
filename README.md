@@ -28,7 +28,7 @@ The table Books followed by the SQL query which was used for its creation:
 
 ![books_table](/images/books_table.png?raw=true)
 
-SQL query:
+### SQL query
 ![books_table_create](/images/books_table_create.png?raw=true)
 
 ### Forms
@@ -46,5 +46,6 @@ Display the details of the members who have borrowed a book on "11/2/2022".
 
 -2nd solution
 
-![Query_2nd](/images/Query_2nd.png?raw=true)
-
+<p align="center">
+ ![Query_2nd](/images/Query_2nd.png?raw=true)
+</p>
