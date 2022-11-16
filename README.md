@@ -24,6 +24,7 @@ The relational diagram as presented by MS access:
 ![ralational_diagram](/images/Relational_diagram.png?raw=true)
 
 <div align="center">
+ 
 ### Tables
 The table Books followed by the SQL query which was used for its creation:
 
