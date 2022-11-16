@@ -16,25 +16,25 @@
  
 ### ER diagram
 
-![ER diagram](/images/ER_diagram.png)?raw=true
+![ER diagram](/images/ER_diagram.png?raw=true)
 
 ### Relationships design
 The relational diagram as presented by MS access:
 
-![ralational_diagram](/images/Relational_diagram.png)?raw=true
+![ralational_diagram](/images/Relational_diagram.png?raw=true)
 
 ### Tables
 The table Books followed by the SQL query which was used for its creation:
 
-![books_table](/images/books_table.png)?raw=true
+![books_table](/images/books_table.png?raw=true)
 
 SQL query:
-![books_table_create](/images/books_table_create.png)?raw=true
+![books_table_create](/images/books_table_create.png?raw=true)
 
 ### Forms
 The author’s form:  
 
-![form](/images/Form.png)?raw=true
+![form](/images/Form.png?raw=true)
 
 ### SQL Queries
 
@@ -42,9 +42,9 @@ Display the details of the members who have borrowed a book on "11/2/2022".
 
 -1st solution
 
-![Query_1st](/images/Query_1st.png)?raw=true
+![Query_1st](/images/Query_1st.png?raw=true)
 
 -2nd solution
 
-![Query_2nd](/images/Query_2nd.png)?raw=true
+![Query_2nd](/images/Query_2nd.png?raw=true)
 
